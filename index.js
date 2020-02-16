@@ -47,6 +47,10 @@ class DebugTimer {
     console.log(str);
     return str;
   }
+  clean() {
+      let cleaned = {};
+      this.data = cleaned;
+  }
 }
 
 module.exports = DebugTimer;
