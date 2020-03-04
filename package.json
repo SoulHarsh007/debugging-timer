@@ -1,6 +1,6 @@
 {
-  "name": "debugging-timer",
-  "version": "1.0.0",
+  "name": "@fateharsh/debugging-timer",
+  "version": "1.0.1",
   "description": "Measure the execution time of multiple sections of your code, then effortlessly print all the timer results at once to the console.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catcher-in-the-try/debugging-timer.git"
+    "url": "git+https://github.com/SoulHarsh007/debugging-timer.git"
   },
   "keywords": [
     "debugging",
@@ -21,10 +21,10 @@
     "date",
     "benchmarking"
   ],
-  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "author": "SoulHarsh007",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/catcher-in-the-try/debugging-timer/issues"
+    "url": "https://github.com/SoulHarsh007/debugging-timer/issues"
   },
-  "homepage": "https://github.com/catcher-in-the-try/debugging-timer#readme"
+  "homepage": "https://github.com/SoulHarsh007/debugging-timer#readme"
 }
